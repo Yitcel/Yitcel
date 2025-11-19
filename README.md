@@ -75,7 +75,7 @@ Marketing Principles • Macroeconomics • Microeconomics
 🔹 Growing my technical proficiency in Excel, finance, and accounting tools  
 🔹 Exploring data analytics and business intelligence fundamentals  
 🔹 Building professional projects and resumes using GitHub  
-🔹 Seeking internships in **finance, operations, or accounting**  
+🔹 Seeking internships in **finance, analysis, or accounting**  
 
 ---
 
